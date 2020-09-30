@@ -1,0 +1,17 @@
+body {
+    background-color: purple;
+}
+#flex {
+    display: flex;
+    flex-direction: row;  
+}
+
+nav {
+    background-color: pink; 
+}
+main {
+    background-color: white; 
+}
+hl {
+    color: red;   
+}
